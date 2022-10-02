@@ -212,7 +212,7 @@ aside h3 {
 #bilde {
     padding: 2%;
     width: 50%;
-    background-image: url(/1383.jpg);
+    background: url(/1383.jpg);
 }
 
 #oppgaver {
