@@ -31,8 +31,6 @@ body {
     grid-template-areas:
         "header    header   header    aside"
         "header    header   header    aside";
-
-
 }
 
 
@@ -213,7 +211,7 @@ aside h3 {
 
 .infoFilm iframe {
     max-width: 100%;
-    padding: 4em;
+    margin: 5em;
 }
 
 #oppgaver {
