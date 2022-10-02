@@ -41,11 +41,6 @@ img {
 }
 
 
-
-
-
-
-
 header {
     grid-area: header;
     box-shadow: var(--shadow);
