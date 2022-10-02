@@ -14,15 +14,11 @@
 html {
     box-sizing: border-box;
     font-family: 'monospace', Courier, Courier New;
-    width: 100vw;
-
 }
 
 body {
     background-color: var(--lysbak);
     padding: 1em;
-
-
 }
 
 #headerTopp {
