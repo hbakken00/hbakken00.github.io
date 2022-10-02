@@ -44,7 +44,7 @@ header {
     box-shadow: var(--shadow);
     padding: 2rem;
     min-height: 500px;
-    background: url(/pic7.jpeg);
+    background: url("pic7.jpeg");
     background-size: cover;
     background-position: center;
 
@@ -211,7 +211,7 @@ aside h3 {
 
 #bilde {
     width: 100%;
-    background-image: url(1383.jpg);
+    background-image: url("1383.jpg");
 }
 
 #oppgaver {
