@@ -44,7 +44,7 @@ header {
     box-shadow: var(--shadow);
     padding: 2rem;
     min-height: 500px;
-    background: url(pic7.jpeg);
+    background: url(/pic7.jpeg);
     background-size: cover;
     background-position: center;
 
@@ -92,7 +92,7 @@ footer {
 
 #bilde {
     width: 100%;
-    background: url(1383.jpg);
+    background: url(/1383.jpg);
 }
 
 
