@@ -196,26 +196,23 @@ aside h3 {
 
 
 
-.infoFilm {
+.info {
     text-align: center;
     box-shadow: var(--shadow);
     background: rgba(104, 178, 248, 0.219);
 }
 
-.infoFilm h1 {
+.info h1 {
     color: var(--darkblue);
     font-size: 35px;
 }
 
-.infoFilm p {
+.info p {
     text-decoration: var(--shadow);
     margin-bottom: 2em;
 }
 
-.infoFilm iframe {
-    max-width: 100%;
-    margin: 5em;
-}
+
 
 #oppgaver {
     display: grid;
