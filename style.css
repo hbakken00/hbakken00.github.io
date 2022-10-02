@@ -217,6 +217,7 @@ aside h3 {
 }
 
 .infoFilm iframe {
+    width: 100%;
     padding-top: 2em;
     padding-bottom: 1em;
 }
