@@ -197,6 +197,7 @@ aside h3 {
     text-align: center;
     box-shadow: var(--shadow);
     background: rgba(104, 178, 248, 0.219);
+    padding: 2%;
 }
 
 .info h1 {
